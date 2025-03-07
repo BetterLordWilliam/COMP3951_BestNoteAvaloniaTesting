@@ -12,6 +12,9 @@ Will spend this weekend learning and implementing bestnote milestone 1 features 
 
 Avalonia still uses XAML and C# so it is not really all that new, the framework is just better suited for BestNote's design goals compared to MAUI.
 
+## Install Quick Ref
+`dotnet new install Avalonia.Templates`
+
 ## References
 Some useful materials to get started with Avalonia.
 
